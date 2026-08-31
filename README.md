@@ -17,7 +17,8 @@ query plans, and talking to the people who actually use the thing.
   (Actuator + Micrometer, p99 latency, tracing)
 
 **What I've shipped**
-- 📱 [Pai de Pet](paidepet.app) — pet community app, live on iOS & Android
+- 📱 [Pai de Pet](https://paidepet.app) — pet community app, live on
+  [iOS](https://apps.apple.com/br/app/pai-de-pet/id6788947461) and [Android](https://play.google.com/store/apps/details?id=app.paidepet)
   (React Native · Supabase · Sentry · OTA updates)
 - 🧩 [claude-context-sync](https://github.com/Daniel-de-Oliveira-Trindade/claude-context-sync) —
   VS Code extension to move AI coding sessions between machines
